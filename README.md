@@ -3,7 +3,7 @@ Fake online REST API for new developers
 
 
 These are following public apis
-#	Route	Method	Type	Full route	Description	Details
+##	Route	Method	Type	Full route	Description	Details
 
 ## Base url: https://my-json-server.typicode.com/krsatish53/fake-rest-api
 
